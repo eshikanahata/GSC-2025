@@ -5,7 +5,7 @@
 
 
 
-### Datasets:
+### Data Sources:
 1. Bengali
 (Bn) Romin et al. --> [Dataset](https://www.kaggle.com/datasets/naurosromim/bengali-hate-speech-dataset)
 
