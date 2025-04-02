@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+confluent-kafka
+google-generativeai
+transformers
+torch
+peft
+google-auth
+google-auth-oauthlib
+google-api-python-client
+asyncio
