@@ -8,14 +8,12 @@ Web Hosting Repo: [https://github.com/WhackyAlpaca/IITMTeam1](https://github.com
 
 
 ### Data Sources:
-1. Bengali
-(Bn) Romin et al. --> [Dataset](https://www.kaggle.com/datasets/naurosromim/bengali-hate-speech-dataset)
 
-2. Tamil 
+1. Tamil 
 (Ta-En) --> [Source](https://github.com/goru001/nlp-for-tanglish)
 
-3. Malayalam
+2. Malayalam
 (Ma-En) --> [Source](https://github.com/goru001/nlp-for-manglish)
 
-4. Kannada
+3. Kannada
 (Ka-En) --> [Source](https://github.com/goru001/nlp-for-kannada)
